@@ -1,1 +1,0 @@
-float gv_bound(int n, int k);
